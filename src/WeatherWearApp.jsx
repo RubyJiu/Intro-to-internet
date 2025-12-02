@@ -33,8 +33,8 @@ export default function WeatherWearApp() {
     }
   }, [darkMode]);
 
-  const GEMINI_API_KEY = "AIzaSyAarODVkPdc1PbAiqKtKmp33H89U1oX8RE"; // Ganti dengan API key Anda
-  const OPENWEATHER_API_KEY = "70138a1007ee5fe086070f5cfc222de8"; // Ganti dengan API key Anda
+  const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
+  const OPENWEATHER_API_KEY = import.meta.env.VITE_OPENWEATHER_API_KEY;
 
   const fetchWeather = async () => {
     if (!city.trim()) {
