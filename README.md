@@ -7,3 +7,9 @@ HW2 video https://drive.google.com/file/d/1Whfwc7EIg955CA0-UkA0wRwtnD83uoat/view
 
 HW3 video
 https://drive.google.com/file/d/17mHeCSrEZbxmof1oL5yJORmGSioaDoHy/view?usp=drivesdk
+
+專題名稱: WeatherWear
+組員姓名與學號: 游靜靜 41271125H
+線上網站網址（已部署完成）：https://weatherwear-47gd.onrender.com/
+YouTube 影片連結： https://youtu.be/EGEkKJcprCk?feature=shared
+專題程式碼 GitHub Repo 連結: At "Final Project" Branch
